@@ -1,5 +1,3 @@
-# My Lasest Project. [LastMessageInfo]
-A plugin for Discord that views last message date and time.
-Original by mwittrien.
-If you found any bugs please report it towards to me for fix or help.
-Discord: sya#0885
+My newest updated BD plugins by other plugin makers.
+That's all remake and you may have some bugs with plugins.
+Report them towards to me on Discord. (sya#0885)
